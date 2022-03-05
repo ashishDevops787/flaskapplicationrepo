@@ -1,0 +1,6 @@
+Docker Commands:
+to push a new tag to this repositroy.
+
+docker push ashishrichie/demorepp:tagname
+
+
